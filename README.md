@@ -17,5 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Working App Video
 
-https://user-images.githubusercontent.com/56475030/204290501-73ba2268-ca92-4632-9964-022c6fee0cbe.mp4
+https://user-images.githubusercontent.com/56475030/204290918-843a5ed4-f4d2-46e2-b764-2a3e572e7d59.mp4
 
